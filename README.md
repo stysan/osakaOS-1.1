@@ -1,4 +1,4 @@
-# osakaOS v1.0
+# osakaOS v1.1
 ![](cube.gif)
 
 <h2>THE operating system of all time.</h2>
